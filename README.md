@@ -19,9 +19,6 @@ Each advisory is formatted according to the **OSSA Schema** and contains:
 
 For full details, refer to the [`OSSA Advisory Schema`](https://github.com/Xpertians/OpenSourceSoftwareAdvisory-spec).
 
-## License
-All content in this repository is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
-
 ## Disclaimer
 - This repository provides **general information** about Open Source Software Advisories.
 - It is **not specific to any company, project, or use case**.
@@ -36,3 +33,5 @@ Contributions are welcome! To contribute:
 
 For discussions and improvements, please open an issue.
 
+## License
+All content in this repository is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
